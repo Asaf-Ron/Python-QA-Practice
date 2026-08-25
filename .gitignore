@@ -1,2 +1,3 @@
-__pychache__/
-Week\ 1/PIN\ Validator/__pycache__
+**/__pycache__/
+**/.pytest_cache/
+.DS_Store
